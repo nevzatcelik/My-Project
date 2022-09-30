@@ -1,3 +1,5 @@
+package Java01;
+
 import java.util.Scanner;
 
 public class C03 {
