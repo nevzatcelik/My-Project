@@ -2,7 +2,7 @@ package Java01;
 
 import java.util.Scanner;
 
-public class C03 {
+public class C03_ballHeight_and_NumberOfHits {
     public static void main(String[] args) {
         //Bir top belirli yükseklikten atılmaktadır.
         // Atıldıktan sonra, atıldığı yüksekliğin 3/4 u kadar yerden yukarı doğru zıplamaktadır

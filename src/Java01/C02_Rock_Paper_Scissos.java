@@ -3,7 +3,7 @@ package Java01;
 import java.util.Random;
 import java.util.Scanner;
 
-public class C02 {
+public class C02_Rock_Paper_Scissos {
     public static void main(String[] args) {
 
 

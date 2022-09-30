@@ -2,7 +2,7 @@ package Java01;
 
 import java.util.Scanner;
 
-public class C01 {
+public class C01_UserCardNumber {
     public static void main(String[] args) {
 
         /*
